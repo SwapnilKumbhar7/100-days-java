@@ -1,4 +1,4 @@
-class Solution
+class Selection
 {
 	int  select(int arr[], int i)
 	{
